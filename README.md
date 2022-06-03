@@ -26,19 +26,33 @@ Conocer la utilidad que tienen dentro de los circuitos eléctricos la potencia y
 
 3.1 LA RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA
 
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/3.1.png)
+
 3.5 Introducción a la localización de fallas 
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/3.5.png)
 
 4. ENERGIA Y POTENCIA 
 
 4.1 ENERGÍA Y POTENCIA
 
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/4.1.png)
+
 4.2 POTENCIA EN UN CIRCUITO ELÉCTRICO
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/4.2.png)
 
 4.3 POTENCIA NOMINAL EN RESISTORES
 
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/4.3.png)
+
 4.4 CONVERSIÓN DE ENERGÍA Y CAÍDA DE VOLTAJE EN UNA RESISTENCIA
 
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/4.4.png)
+
 4.5 FUENTES DE POTENCIA
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/4.5.png)
 
 EJERCICIOS CAP 3
 
@@ -66,9 +80,11 @@ R=V/I=1/(5*〖10〗^(-3) )=200Ω
 
 8. -  Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
- 
+ !)[1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%208.png)
  
 10. - ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2010.png)
  
 R= Literal  (a) Ia=0.015;Ib=0.019;Ic=0.021
 
@@ -79,10 +95,7 @@ R= Literal  (a) Ia=0.015;Ib=0.019;Ic=0.021
 
 14. - ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta
 
-
-
-
-
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2012.png)
 
 R: Es una relación proporcional, es decir, si el voltaje aumenta la corriente igual y viceversa 
 
@@ -117,6 +130,8 @@ R=370000 ± 7%
 I=12/370000=3.24*〖10〗^(-5)
 
 22. - El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2022.png)
   
 V_Rmax=120-100=20 V 
 
@@ -141,6 +156,8 @@ I_max=V_Rmax/R_min =20/8=2.5A
 (h) I= 75 µA; R= 47Ω ===V=47*7.5*〖10〗^(-5)=3.525*〖10〗^(-3)
 
 26. - Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2026.png)
  
 a) V=27*3=81V         b) V=100*5=500V           c)V=47*2.5=117.5V
 
@@ -166,6 +183,8 @@ I=2 mA
 
 32. - Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2032.png)
+
              
 R: Para encontrar el valor de la resistencia, con el amperímetro encontramos el valor de la corriente, con este dato usamos la fórmula de ohm para encontrar la resistencia
 
@@ -180,6 +199,8 @@ R=120/2=60Ω
 Rmin=60*15= 45Ω
 
 36. - En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2036.png)
 
  
 R: El foco fundido es el que está en la posición 4
@@ -265,6 +286,8 @@ R=P/I^2 =100/2^2 =25Ω
 P=I^2*R=0.01A*6800kΩ=0.68 W
 
 28. - En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%2028%20cap4.png)
  
 30. - Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
