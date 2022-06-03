@@ -10,7 +10,15 @@ NRC: 7322
 
 Objetivo general.- 
 
+• Comprender la relacion que existe entre cada concepto de electricidad y como estas formulas nos ayudan a encontrar diferentes valores.
+
 Objetivoa especificos.- 
+
+Aplicar la Ley de Ohm para determinar las fórmulas de voltaje, corriente y resistencia.
+
+Determinar la relación que existe entre las magnitudes de voltaje, corriente y resistencia.
+
+Conocer la utilidad que tienen dentro de los circuitos eléctricos la potencia y la energía.
 
 #MARCO TEORICO 
 
