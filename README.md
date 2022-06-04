@@ -307,7 +307,11 @@ x__________48h          x=(0.650*48)/1=31.2A
 
 Eficiciencia=(p.salida)/(p.entrada)=>p.salida=Eficiencia*p.entrada=85%*5=4.25W
 
-#CONCLUSIONES 
+#Link del video 
+
+https://youtu.be/iZfiShet_GI
+
+#CONCLUSIONES
 
 • Podemos hacer uso de la fórmula de Ohm para poder relacionarlas con la Potencia, estas leyes son conocidas como la Ley de Watt y nos ayudan a encontrar información importante acerca de nuestro circuito.
 
