@@ -80,7 +80,7 @@ R=V/I=1/(5*〖10〗^(-3) )=200Ω
 
 8. -  Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
- !)[1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/f1dd698ed4d4c3e7010cf553ce765c972ab30637/Ejercicio%208.png)
+![1](https://github.com/hmcasa1/Informe-Tarea-2-/blob/727bbe98badbb72ddf7b7c96e40427bb552b5b6d/Ejercicio%208.png)
  
 10. - ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
